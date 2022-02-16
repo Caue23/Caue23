@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caue23&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Caue23/github-readme-stats)
+
 ## Tecnologias que uso no meu dia!
 
 <div style="display: inline_block"><br/>
